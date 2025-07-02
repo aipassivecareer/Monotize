@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Affiliate monotize </title>
+  <style>
+    body { background: #000; color: #fff; font-family: sans-serif; padding: 2rem; }
+    h1 { color: Pink; }
+    .container { background: #111; padding: 2rem; border-radius: 10px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Affiliate monotize </h1>
+    <p>Generates all different monetization techniques for clients using AI</p>
+    <footer><small>Built with WebsiteGenie</small></footer>
+  </div>
+</body>
+</html>
